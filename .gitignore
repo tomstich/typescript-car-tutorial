@@ -4,3 +4,5 @@
 /src/**/*.map
 
 .DS_Store
+
+yarn-error.log
